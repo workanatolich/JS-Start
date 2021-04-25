@@ -9,7 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2 class="header">21</h2>
+    <h2 class="header">Solo</h2>
     <div class="container">
         <h1>стартуем нашу первую программу</h1>
         <div id="out">111</div>

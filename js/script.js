@@ -1,13 +1,11 @@
-console.log('Hello');
-console.log("world");
-console.log("3333");
-console.log(334);
-console.log('Hello ' + ' world');
-console.info('Hello' + 'world');
+console.log('Anatoliy');
 
-// alert('Hello');
+console.log('6');
+console.log(6);
 
-document.getElementById('out').innerHTML = 'hello';
-document.getElementById('out').innerHTML = 'kira';
+console.log('Добро' + ' пожаловать ' + 'на курс');
 
-document.querySelector('.header').innerHTML = 30;
+document.querySelector('.header').innerHTML = 'Hello world'
+
+let a = document.getElementById('out');
+a.innerHTML = '30';
