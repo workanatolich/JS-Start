@@ -9,31 +9,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h2 class="header">Solo</h2>
-    <div class="container">
-        <h1>стартуем нашу первую программу</h1>
-        <div id="out">111</div>
-        <div id="one"></div>
-        <div id="two"></div>
-        <div class="one"></div>
+    <h1>Основы ввода данных</h1>
 
-    </div>
-
-    <div class="container">
-        <h2>Hello <span>everyone</span></h2>
-        <div class="three"></div>
-        <div class="four"></div>
-        <div class="five"></div>
-        <div class="six"></div>
-        <div class="seven"></div>
-        <div class="eight"></div>
-
-        <div class="test-1"></div>
-        <div class="test-2"></div>
-
-        <div class="s3"></div>
-        <div class="s4"></div>
-    </div>
+    <input type="text" class="input-in" placeholder="Значение">
+    <button>Go</button>
+    <div class="out"></div>
 
     <script src="js/script.js"></script>
 </body>
