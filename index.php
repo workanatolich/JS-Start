@@ -13,7 +13,26 @@
     <div class="container">
         <h1>стартуем нашу первую программу</h1>
         <div id="out">111</div>
+        <div id="one"></div>
+        <div id="two"></div>
+        <div class="one"></div>
 
+    </div>
+
+    <div class="container">
+        <h2>Hello <span>everyone</span></h2>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+        <div class="seven"></div>
+        <div class="eight"></div>
+
+        <div class="test-1"></div>
+        <div class="test-2"></div>
+
+        <div class="s3"></div>
+        <div class="s4"></div>
     </div>
 
     <script src="js/script.js"></script>
