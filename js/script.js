@@ -202,4 +202,7 @@ function f20() {
     out.innerHTML = name + ' ' + password;
 
 }
-document.querySelector('.b-20').onclick = f20;
+document.querySelector('.b-20').onclick = (event) => {
+    event.preventDefault();
+    f20();
+};
