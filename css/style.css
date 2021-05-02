@@ -37,10 +37,23 @@ section {
 }
 
 .img-12-max {
-    width: 128px;    border: 3px solid #fff;
+    width: 128px;
+    border: 3px solid #fff;
 
 }
 
 .active-img {
     border: 3px solid black;
+}
+
+.one {
+    background: orange;
+}
+
+.two {
+    background: #42a5f5;
+}
+
+.three {
+    border: 1px solid red;
 }
