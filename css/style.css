@@ -46,14 +46,13 @@ section {
     border: 3px solid black;
 }
 
-.one {
-    background: orange;
-}
-
-.two {
-    background: #42a5f5;
-}
-
-.three {
-    border: 1px solid red;
+.bg-1, .bg-2, .bg-3,
+.bg-4, .bg-5, .bg-6,
+.bg-7, .bg-8, .bg-9,
+.bg-10, .bg-11, .bg-12,
+.bg-13, .bg-14, .bg-15,
+.bg-16, .bg-17, .bg-18,
+.bg-19, .bg-20 {
+    background: deepskyblue;
+    color: white;
 }

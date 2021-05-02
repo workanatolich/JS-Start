@@ -705,7 +705,7 @@ main {
 
 .section,
 section {
-    /*padding: 30px*/
+    padding: 30px
 }
 
 .section :last-child,
