@@ -6,25 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/mustard-ui.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>Lesson 14</title>
+    <title>Lesson 15</title>
 </head>
 <body>
 <div class="container">
-    <h1 class="text-center">The weather API</h1>
-
-    <div class="pricing-table row">
-        <div class="package featured">
-            <p class="package-name">Moscow</p>
-            <hr>
-            <p class="price">10&deg;</p>
-            <p class="disclaimer">Clouds</p>
-            <hr>
-            <ul class="features">
-                <li>Features 1</li>
-            </ul>
-            <button class="button-primary">Go</button>
-        </div>
-    </div>
+    <h1 class="text-center">Set in JS</h1>
+</div>
     <script src="js/script.js"></script>
 </body>
 </html>

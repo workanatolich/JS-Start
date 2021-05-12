@@ -1,13 +1,23 @@
-fetch('http://api.openweathermap.org/data/2.5/weather?q=Moscow&appid=34104e06802e539cc00d1ab3ac753226')
-    .then(function (resp) {return  resp.json()})
-    .then(function (data) {
-        console.log(data);
-        document.querySelector('.package-name').textContent = data.name;
-        document.querySelector('.price').innerHTML = Math.round(data.main.temp-273) + '&deg';
-        document.querySelector('.disclaimer').textContent = data.weather[0]['description'];
-        document.querySelector('.featured li').innerHTML = `<img src="http://openweathermap.org/img/wn/${data.weather[0]['icon']}@2x.png">`;
+let a = new Set();
 
-    })
-    .catch(function () {
-       //catch any errors
-    });
+a.add(1);
+a.add(2);
+a.add('Hello');
+a.add(1);
+
+console.log(a);
+console.log(a[0]);
+console.log(a.size);
+
+for (let item of a) {
+    console.log(item);
+}
+
+let arr = [1,2,3,4,5,5,'hello', 34,2,5,6];
+
+let b = new Set(arr);
+console.log(b);
+console.log(b.size);
+
+let bArr = Array.from(b);
+console.log(bArr);
