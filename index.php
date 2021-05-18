@@ -12,9 +12,74 @@
 <div class="container">
     <h1 class="text-center">Cycles for of and for in</h1>
 
-    <p>1</p>
-    <p>2</p>
-    <p>3</p>
+    <section>
+        <button class="button-primary b-1">Task 1</button>
+        <div class="out-1"></div>
+    </section>
+    <section>
+        <button class="button-primary b-2">Task 2</button>
+        <div class="out-2"></div>
+    </section>
+    <section>
+        <button class="button-primary b-3">Task 3</button>
+        <div class="out-3"></div>
+        <div class="out-3"></div>
+        <div class="out-3"></div>
+        <div class="out-3"></div>
+    </section>
+    <section>
+        <button class="button-primary b-4">Task 4</button>
+        <div class="out-4"></div>
+        <div class="out-4"></div>
+        <div class="out-4"></div>
+        <div class="out-4"></div>
+    </section>
+    <section>
+        <button class="button-primary b-5">Task 5</button>
+        <div class="out-5"></div>
+    </section>
+    <section>
+        <button class="button-primary b-6">Task 6</button>
+        <div class="out-6"></div>
+    </section>
+    <section>
+        <button class="button-primary b-7">Task 7</button>
+    </section>
+    <section>
+        <button class="button-primary b-8">Task 8</button>
+    </section>
+    <section>
+        <button class="button-primary b-9">Task 9</button>
+        <div class="out-9"></div>
+    </section>
+    <section>
+        <button class="button-primary b-10">Task 10</button>
+        <div class="out-10"></div>
+    </section>
+    <section>
+        <button class="button-primary b-11">Task 11</button>
+        <div class="out-11"></div>
+    </section>
+    <section>
+        <button class="button-primary b-12">Task 12</button>
+        <div class="out-12"></div>
+    </section>
+    <section>
+        <button class="button-primary b-13">Task 13</button>
+        <div class="out-13"></div>
+    </section>
+    <section>
+        <button class="button-primary b-14">Task 14</button>
+        <div class="out-14"></div>
+    </section>
+    <section>
+        <button class="button-primary b-15">Task 15</button>
+        <div class="out-15">1</div>
+        <div class="out-15">2</div>
+        <div class="out-15">3</div>
+        <div class="out-15">4</div>
+        <div class="out-15">5</div>
+    </section>
 
 </div>
     <script src="js/script.js"></script>
