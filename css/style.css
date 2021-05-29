@@ -45,3 +45,19 @@ section {
 .active-img {
     border: 3px solid black;
 }
+
+.img-10 {
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.keyboard {
+    width: 80px;
+    height: 30px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block;
+}
